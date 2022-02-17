@@ -15,7 +15,7 @@
 Link: [https://stock-price-predictions-lstm.herokuapp.com/](https://stock-price-predictions-lstm.herokuapp.com/)
 
 ![Screenshot](Capture.PNG)
-![Screenshot](Capture2.PNG)
+![Screenshot](Capture1.PNG)
 
 
 ## Problem Statement
