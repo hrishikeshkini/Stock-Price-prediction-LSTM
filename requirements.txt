@@ -1,0 +1,10 @@
+dash
+Flask
+gunicorn
+scikit-learn
+requests
+numpy
+pandas
+Keras
+plotly
+tensorflow-cpu
